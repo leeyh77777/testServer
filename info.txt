@@ -1,2 +1,3 @@
-서버실행 
-node app
+서버실행 : node app
+
+public 폴더에 vue 빌드파일 담기!
